@@ -2,7 +2,7 @@
 
 ## Installation
 
-Télécharger le dossier Anagramme et le décompresser. Lancer le fichier AnagrammeWPF.exe.
+Télécharger le dossier Anagramme et le décompresser. Lancer le fichier AnagrammeWPF.exe. Ne pas déplacer ou supprimer les fichiers présents dans le dossier.
 
 ## Jeu 
 
